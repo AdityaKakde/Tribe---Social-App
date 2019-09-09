@@ -352,6 +352,7 @@ textarea.input {
     
     margin-left: 175;
     margin-right: auto;
+    margin-top: 175;
     
 }
 
@@ -515,11 +516,11 @@ textarea.input {
 
 .main-nav li a:hover, .main-nav li a:focus {
   background-color: transparent;
-  color: #dd0a37;
+  color: #3477FB;
 }
 
 #header.transparent-navbar .main-nav li a:hover {
-  color: #dd0a37;
+  color: #3477FB;
 }
 
 .navbar-toggle {
@@ -563,7 +564,7 @@ textarea.input {
     color: #0b0f28;
   }
   .main-nav li a:hover, .main-nav li a:focus, .main-nav li.active a {
-    background-color: #dd0a37;
+    background-color: #3477FB;
     color: #fff !important;
   }
   .navbar-toggle {
