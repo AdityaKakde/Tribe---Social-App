@@ -39,9 +39,9 @@ body {
 .avatar{
   width: 100px;
   height: 100px;
-  border-radius: 50%;
+  border-radius: 0%;
   position: absolute;
-  top: -50%;
+  top: -35%;
   left: calc(50% - 50px);
   padding: 20px;
 }
@@ -55,6 +55,7 @@ body {
 .loginbox input{
   width: 100%;
   margin-bottom: 20px;
+  color:azure;
 }
 
 .loginbox input[type="text"], input[type="password"]{
